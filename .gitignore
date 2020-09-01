@@ -1,5 +1,2 @@
-*.swp
-target/
 .DS_Store
-*.pdb
 .vscode
